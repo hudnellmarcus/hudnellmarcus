@@ -12,8 +12,6 @@
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hudnellmarcus&theme=highcontrast&hide_border=true" alt="hudnellmarcus" />
 </p>
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 <!---
 hudnellmarcus/hudnellmarcus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
