@@ -12,12 +12,12 @@ I'm a full stack developer with a passion for crafting engaging user experiences
 
 ## 🎨 Recent Projects
 
-### Simpson Street Brand Web Application
+[Simpson Street Brand Web Application](https://github.com/hudnellmarcus/Simpson_Street)
 - Led development of a modern, responsive web application
 - Implemented UI components using React and Tailwind CSS
 - Ensured cross-platform compatibility and optimal performance
 
-### Liquid Front-End Demo Website
+[Liquid Front-End Demo Website](https://github.com/hudnellmarcus/liquid-demo)
 - Rapidly designed and developed a fully functional demo website
 - Transformed Figma designs into interactive React components
 - Completed the project in approximately 14 days, showcasing efficiency and technical proficiency
